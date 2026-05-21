@@ -1,21 +1,23 @@
-## Análise de Regressão Linear utilizando Python e Scikit-Learn.
+# Análise de Regressão Linear utilizando Python e Scikit-Learn.
 
-### Tecnologias 🛠️
+## Objetivo 📌
+
+Realizar análise de dados e prever resultados utilizando regressão linear.
+
+## Tecnologias 🛠️
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-Learn
 
-### Objetivo 📌
-
-Realizar análise de dados e prever resultados utilizando regressão linear.
-
-### Aprendizados 📝
+## Aprendizados 📝
 - Tratamento de dados
 - Treinamento de modelos
 - Visualização gráfica
 - Machine Learning básico
+
+---
 
 ### Visualização Exploratória
 
